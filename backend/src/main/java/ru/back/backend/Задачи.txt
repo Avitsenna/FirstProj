@@ -25,3 +25,4 @@ Frontend:
 5.Должна быть пагинация(переходы на странички с новостями)
  1)номер отображаемой странички не может быть отрицательным(можно сделать Easter Egg(пасхалку),но это позже, надо вообще его(проект) допилить)
 6.Доработать разделение back/front, где backend = Mappers,NewsApiController,Models(only some of them)
+ Dependencies : Spring Web,Spring Reactive Web and Lombok.(No security)
